@@ -1,0 +1,18 @@
+
+
+#quadro {
+    width: 400px;
+    height: 400px;
+    background-image: url("paisagem.jpg");
+    background-size: cover;
+    background-position: center;
+    border: 30px solid #ece0e3;
+    outline: 30px solid #ada3a6;
+    margin: 50px;
+}
+
+h3{
+    color: #fff;
+    font-size: 15px;
+    padding-left: 300px;
+}
